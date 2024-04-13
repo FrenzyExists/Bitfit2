@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/workoutOption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_workout"
+        android:title="Workout" />
+    <item
+        android:id="@+id/dashboardOption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_graph"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/settingsOption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings" />
+</menu>
