@@ -19,9 +19,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<p align="center">
-  <img src="demo.gif" alt="Demo">
-</p>
+
+![Animation2](https://github.com/FrenzyExists/Bitfit2/assets/47986470/287d589f-989b-4b9b-9ba9-1b64e60d640d)
+
 
 ## Notes
 
